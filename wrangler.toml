@@ -1,0 +1,14 @@
+name = "ddo-roadmap-xp"
+pages_build_output_dir = "public"
+compatibility_date = "2024-11-01"
+
+[vars]
+# Identifiant public de l'application Discord (pas un secret).
+# Le secret se règle à part : npx wrangler pages secret put DISCORD_CLIENT_SECRET --project-name ddo-roadmap-xp
+DISCORD_CLIENT_ID = "1568009651113558016"
+APP_ORIGIN = "https://ddo-roadmap-xp.pages.dev"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ddo-roadmap"
+database_id = "f4c43573-fdfc-4d9d-93af-8c5b8bdc47aa"

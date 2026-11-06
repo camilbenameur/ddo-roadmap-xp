@@ -1,0 +1,2837 @@
+[
+{
+"id": "stealthy-repossession",
+"why": "Takes you to level 2 in one go.",
+"entrance": "Takes place in the Cultists Shrine.",
+"giver_where": "In The Harbor",
+"tip": "If stealth fails, lure six Kobold Prophets onto the shelf in the first room, then jump.",
+"group": "Start",
+"diff": "R1 + Elite"
+},
+{
+"id": "the-grotto",
+"why": "Solo, free start.",
+"entrance": "Entrance at Shipwreck Shore (Korthos Village). Solo quest.",
+"giver_where": "Korthos Village",
+"tip": "There is a blade trap to the right of the door. A door near the exit is locked.",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "heytons-rest",
+"why": "Prerequisite for The Collaborator.",
+"entrance": "Takes place in the Heyton Family Crypt.",
+"giver_where": "Korthos Village",
+"tip": "An acid trap guards a chest. There is a box on each side of the trap.",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-storehouses-secret",
+"why": "Prerequisite for The Collaborator.",
+"entrance": "In Korthos Village, in the Village Storehouse.",
+"giver_where": "",
+"tip": "XP bonus: 5 monsters killed (Aggression) and 42 objects broken (Vandal).",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-cannith-crystal",
+"why": "Prerequisite for The Collaborator.",
+"entrance": "In Korthos Village. Takes place in Korthos Hall.",
+"giver_where": "",
+"tip": "",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-collaborator",
+"why": "Opens the next 4 quests.",
+"entrance": "Entrance in Korthos Village. Takes place in the Wavecrest Tavern.",
+"giver_where": "Korthos Village",
+"tip": "XP bonus: 9 monsters killed (Aggression, +10%) and 17 (Onslaught, +15%).",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "stopping-the-sahuagin",
+"why": "Follows The Collaborator.",
+"entrance": "Entrance on Korthos Island. Takes place in the Underground Complex. Requires The Collaborator.",
+"giver_where": "Korthos Village",
+"tip": "There is a poison trap on the left branch. Ice traps are in two boxes at the top of the waterfall.",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "redemption-quest",
+"why": "Opens Misery's Peak.",
+"entrance": "Entrance on Korthos Island. Takes place in the Cannith Manufactury. Requires The Collaborator.",
+"giver_where": "Korthos Village",
+"tip": "The valves control the poison traps. Closing them is optional. Lars Heyton must survive.",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "necromancers-doom",
+"why": "Follows The Collaborator.",
+"entrance": "Korthos Village, on Korthos Island.",
+"giver_where": "",
+"tip": "",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "sacrifices",
+"why": "Follows The Collaborator.",
+"entrance": "Korthos Village, on Korthos Island. Takes place in the Cannith Aquaduct.",
+"giver_where": "Korthos Village",
+"tip": "",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "keep-on-the-borderlands-pack",
+"why": "Alternate start (TavernTails's opinion), access not verified.",
+"entrance": "",
+"giver_where": "",
+"tip": "This is a pack (Update 44, 995 DDO Points) with 8 quests: Watch Your Step, The Bugbear Bandits, Violent Delights, Treasure Hunt, Obstructing the Orcs, Caged Beast, The Hobgoblin Horde, Total Chaos.",
+"group": "Start",
+"diff": "Elite"
+},
+{
+"id": "information-is-key",
+"why": "Vooduspyce route, level 2.",
+"entrance": "In The Harbor. Takes place in Osgood's Basement.",
+"giver_where": "",
+"tip": "",
+"group": "Harbor",
+"diff": "R1"
+},
+{
+"id": "haverdasher",
+"why": "Vooduspyce route, level 2.",
+"entrance": "In The Harbor. Takes place in Eyegouger's Basement.",
+"giver_where": "",
+"tip": "",
+"group": "Harbor",
+"diff": "R1"
+},
+{
+"id": "durks-got-a-secret",
+"why": "Vooduspyce route, level 2.",
+"entrance": "In The Harbor.",
+"giver_where": "The Harbor",
+"tip": "",
+"group": "Harbor",
+"diff": "R1"
+},
+{
+"id": "recovering-the-lost-tome",
+"why": "Vooduspyce route, level 2.",
+"entrance": "In The Harbor. Takes place in Fallowcrest Library.",
+"giver_where": "",
+"tip": "",
+"group": "Harbor",
+"diff": "R1"
+},
+{
+"id": "walk-the-butchers-path",
+"why": "Vooduspyce route, level 2.",
+"entrance": "In The Harbor.",
+"giver_where": "",
+"tip": "",
+"group": "Harbor",
+"diff": "R1"
+},
+{
+"id": "the-kobolds-new-ringleader",
+"why": "Vooduspyce route, level 2.",
+"entrance": "The Harbor",
+"giver_where": "",
+"tip": "",
+"group": "Harbor",
+"diff": "R1"
+},
+{
+"id": "miserys-peak",
+"why": "End of Korthos, opened by Redemption.",
+"entrance": "Korthos Island",
+"giver_where": "Korthos Village",
+"tip": "",
+"group": "Korthos",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "arachnophobia",
+"why": "Solo, no Reaper.",
+"entrance": "The Harbor (the quest takes place in the Jorn Family Crypt)",
+"giver_where": "The Harbor",
+"tip": "",
+"group": "Harbor",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-millers-debt",
+"why": "Solo, no Reaper.",
+"entrance": "The Harbor (the quest takes place in Miller Tarrigan's House)",
+"giver_where": "The Harbor",
+"tip": "",
+"group": "Harbor",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-smugglers-warehouse",
+"why": "Free, level 2.",
+"entrance": "The Harbor",
+"giver_where": "The Harbor",
+"tip": "",
+"group": "Harbor",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "garrisons-missing-pack",
+"why": "Free, level 2.",
+"entrance": "The Harbor",
+"giver_where": "The Harbor",
+"tip": "",
+"group": "Harbor",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "bringing-the-light",
+"why": "Free, level 2, short.",
+"entrance": "The Harbor (the quest takes place in the Gambler's Den)",
+"giver_where": "The Harbor",
+"tip": "",
+"group": "Harbor",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-kobolds-den-clan-gnashtooth",
+"why": "Waterworks part 1 (link inferred).",
+"entrance": "The Waterworks",
+"giver_where": "The Harbor",
+"tip": "Part of The Lost Seekers arc.",
+"group": "Waterworks",
+"diff": "R1"
+},
+{
+"id": "the-kobolds-den-rescuing-arlos",
+"why": "Waterworks part 2 (inferred).",
+"entrance": "Entrance in The Waterworks (from The Harbor).",
+"giver_where": "The Harbor",
+"tip": "There is a spike trap near the entrance, after the first closed door. Do not kill Arlos or the quest fails.",
+"group": "Waterworks",
+"diff": "R1"
+},
+{
+"id": "venns-trail-clan-tunnelworm",
+"why": "Waterworks part 3 (inferred).",
+"entrance": "Entrance in The Waterworks (from The Harbor).",
+"giver_where": "The Harbor",
+"tip": "Activate the blue and green crystal switches before you fight Boss Jittik. There are poison traps near the shrines (south tunnel) and acid traps in the north tunnel after the ooze.",
+"group": "Waterworks",
+"diff": "R1"
+},
+{
+"id": "venns-trail-venns-fate",
+"why": "Waterworks part 4 (inferred).",
+"entrance": "Entrance in The Waterworks (from The Harbor).",
+"giver_where": "The Harbor",
+"tip": "There is a blade trap in the northwest corner, just past the door, on the left. You need to have done Clan Tunnelworm.",
+"group": "Waterworks",
+"diff": "R1"
+},
+{
+"id": "the-captives",
+"why": "Harbor, level 3.",
+"entrance": "Entrance in The Cerulean Hills (from The Harbor).",
+"giver_where": "The Harbor",
+"tip": "",
+"group": "Cerulean Hills",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "where-theres-smoke",
+"why": "Cerulean Hills, level 3.",
+"entrance": "Entrance in The Cerulean Hills. The quest takes place at Nash Braza's Farmstead.",
+"giver_where": "The Cerulean Hills",
+"tip": "",
+"group": "Cerulean Hills",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-sunken-sewer",
+"why": "Level 3, Marketplace.",
+"entrance": "",
+"giver_where": "The Marketplace",
+"tip": "Take the south path first (locked grate). You can come back to do the north. Once you jump in the north, there is no way back.",
+"group": "Waterworks",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "missing-in-action",
+"why": "Level 3.",
+"entrance": "",
+"giver_where": "The Marketplace",
+"tip": "There are spike traps to the east (3 hidden switches) and electric traps to the west (3 hidden valves).",
+"group": "Waterworks",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "redfang-the-unruled",
+"why": "Level 3.",
+"entrance": "",
+"giver_where": "The Marketplace",
+"tip": "The first fire trap is right after the entrance. In the poison room, crates line the top, so go left.",
+"group": "Waterworks",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "miserys-peak-2",
+"why": "Ina variant at level 3.",
+"entrance": "Korthos Island",
+"giver_where": "Korthos Village",
+"tip": "",
+"group": "Start",
+"diff": "Elite"
+},
+{
+"id": "an-explosive-situation",
+"why": "Vooduspyce route, level 4.",
+"entrance": "The Harbor. The adventure takes place in Sharpwood's Warehouse.",
+"giver_where": "",
+"tip": "",
+"group": "Level 4",
+"diff": "R1"
+},
+{
+"id": "irestone-inlet",
+"why": "Vooduspyce route, level 4.",
+"entrance": "The Harbor",
+"giver_where": "",
+"tip": "",
+"group": "Level 4",
+"diff": "R1"
+},
+{
+"id": "freshen-the-air",
+"why": "Free, level 4.",
+"entrance": "The Marketplace. The adventure takes place in Troglodyte's Clutch.",
+"giver_where": "",
+"tip": "",
+"group": "Irestone",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "rest-for-the-restless",
+"why": "Free, level 4 (House Phiarlan).",
+"entrance": "Bogwater Tavern",
+"giver_where": "",
+"tip": "",
+"group": "Irestone",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-depths-of-despair",
+"why": "Via House Deneith.",
+"entrance": "Hammersmith's Inn",
+"giver_where": "",
+"tip": "",
+"group": "The Depths",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-depths-of-darkness",
+"why": "Via House Deneith.",
+"entrance": "Hammersmith's Inn",
+"giver_where": "",
+"tip": "",
+"group": "The Depths",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-lost-gatekeepers",
+"why": "Chain (unnamed quests).",
+"entrance": "",
+"giver_where": "",
+"tip": "This pack holds 5 separate quests (The Home of Memory, Heart of the Problem, Rosemary's Ballad, Housekeeping, The Sacred Bounty).",
+"group": "Level 5",
+"diff": "R1"
+},
+{
+"id": "the-haunting-of-saltmarsh",
+"why": "Saltmarsh saga",
+"entrance": "Saltmarsh",
+"giver_where": "The Snapping Line Inn",
+"tip": "",
+"group": "Saltmarsh",
+"diff": "R1"
+},
+{
+"id": "what-sleeps-below",
+"why": "Saltmarsh saga",
+"entrance": "Saltmarsh, at Crabbers' Cove.",
+"giver_where": "",
+"tip": "Optional objectives: read the 5 notes, decipher the book, kill Wrecks, Zelnath and Saltspinner.",
+"group": "Saltmarsh",
+"diff": "R1"
+},
+{
+"id": "the-depths-of-discord",
+"why": "Via House Deneith, level 5",
+"entrance": "Hammersmith's Inn, in House Deneith.",
+"giver_where": "",
+"tip": "",
+"group": "The Depths",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-depths-of-doom",
+"why": "Via House Deneith, level 5",
+"entrance": "Hammersmith's Inn, in House Deneith.",
+"giver_where": "",
+"tip": "Blade traps: west tunnel before the waterfall, between the pillars after the north door, and the east tunnel.",
+"group": "The Depths",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "night-brigade",
+"why": "Chain (unnamed quests)",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Level 6",
+"diff": "R1"
+},
+{
+"id": "three-barrel-cove-heroic",
+"why": "Early XP before Feywild",
+"entrance": "Wilderness area (not a quest), reachable from Barrel's Bottom.",
+"giver_where": "",
+"tip": "",
+"group": "Three-Barrel Cove",
+"diff": "R1"
+},
+{
+"id": "the-stones-run-red",
+"why": "Vooduspyce route, level 6",
+"entrance": "Three-Barrel Cove (Heroic), via Barrel's Bottom.",
+"giver_where": "Barrel's Bottom.",
+"tip": "Kill High Shaman Mak-Murug and destroy 3 Altars of the Dragon Below. The door to the 2nd group of shrines is locked.",
+"group": "Level 6",
+"diff": "R1"
+},
+{
+"id": "brood-of-flame",
+"why": "Vooduspyce route, level 6",
+"entrance": "Three-Barrel Cove (Heroic), via Barrel's Bottom.",
+"giver_where": "Barrel's Bottom.",
+"tip": "Destroy the 3 summoned elementals. The door to the 2nd group of shrines is locked.",
+"group": "Level 6",
+"diff": "R1"
+},
+{
+"id": "the-promise-of-fire",
+"why": "Free, level 6",
+"entrance": "Searing Heights, north side.",
+"giver_where": "At the Marketplace.",
+"tip": "Follow the Scorpion, Sword and Flame paths, then place the two crests in their pedestals. There are spike traps near the levers.",
+"group": "Marketplace",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "redwillows-ruins",
+"why": "House Jorasco",
+"entrance": "House Jorasco.",
+"giver_where": "House Jorasco",
+"tip": "Blade and spike traps near the gate. A box to the right of the lever opens the gate.",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "ruined-halls",
+"why": "House Kundarak",
+"entrance": "House Kundarak.",
+"giver_where": "House Kundarak",
+"tip": "Lightning traps in the first room after the gargoyles. Sonic traps before the last room.",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "dead-predators",
+"why": "House Jorasco",
+"entrance": "House Jorasco.",
+"giver_where": "House Jorasco",
+"tip": "",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "mirras-sleepless-nights",
+"why": "House Jorasco",
+"entrance": "House Jorasco.",
+"giver_where": "House Jorasco",
+"tip": "Ice traps in the ladder room and the central chest room. Disarming 2 or more traps gives the Tamper bonus.",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "caged-trolls",
+"why": "House Phiarlan",
+"entrance": "House Phiarlan.",
+"giver_where": "House Phiarlan",
+"tip": "Spike trap in the hallway after the first troll, then a blade trap.",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-forgotten-caverns",
+"why": "House Kundarak",
+"entrance": "House Kundarak.",
+"giver_where": "House Kundarak",
+"tip": "Cold trap in the first room. Kill all the mephits to disable it.",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "purge-the-heretics",
+"why": "House Phiarlan",
+"entrance": "House Phiarlan. The quest takes place in the Hidden Chapel.",
+"giver_where": "",
+"tip": "Acid trap south of the entrance, fire traps at the corners of the intersection.",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-bounty-hunter",
+"why": "House Deneith",
+"entrance": "Anvilfire Inn (House Deneith).",
+"giver_where": "House Deneith",
+"tip": "Defeat Blaeric Goodspeed for the iron key to the strongbox. The lightning trap in the hidden cavern cannot be disarmed.",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-catacombs-arc",
+"why": "Fallback if you are behind on XP",
+"entrance": "",
+"giver_where": "The Marketplace",
+"tip": "",
+"group": "XP fallbacks",
+"diff": "R1"
+},
+{
+"id": "halls-of-shan-to-kor",
+"why": "Fallback if you are behind on XP",
+"entrance": "Halls of Shan-To-Kor: entrance in The Steam Tunnels",
+"giver_where": "The Marketplace",
+"tip": "",
+"group": "XP fallbacks",
+"diff": "R1"
+},
+{
+"id": "the-depths",
+"why": "Fallback, Depths chain",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "XP fallbacks",
+"diff": "R1"
+},
+{
+"id": "the-sharn-syndicate-arc",
+"why": "Fallback, chain (unnamed quests)",
+"entrance": "",
+"giver_where": "The Marketplace",
+"tip": "Arc of 6 level 4 quests: Come Out and Slay, Dirty Laundry, Repossession, Stand Your Ground, The Bookbinder Rescue, The Stormreaver Fresco.",
+"group": "XP fallbacks",
+"diff": "R1"
+},
+{
+"id": "the-legend-of-two-toed-tobias",
+"why": "Vooduspyce route, level 7",
+"entrance": "Three-Barrel Cove (Heroic)",
+"giver_where": "Barrel's Bottom, Three-Barrel Cove",
+"tip": "",
+"group": "Level 7",
+"diff": "R1"
+},
+{
+"id": "prove-your-worth-heroic",
+"why": "Vooduspyce route, level 7",
+"entrance": "Three-Barrel Cove (Heroic)",
+"giver_where": "Barrel's Bottom, Three-Barrel Cove",
+"tip": "",
+"group": "Level 7",
+"diff": "R1"
+},
+{
+"id": "ghost-of-a-chance-heroic",
+"why": "End of Three-Barrel Cove",
+"entrance": "Three-Barrel Cove (Heroic)",
+"giver_where": "Barrel's Bottom, Three-Barrel Cove",
+"tip": "",
+"group": "Three-Barrel Cove",
+"diff": "R1"
+},
+{
+"id": "fables-of-the-feywild",
+"why": "Unnamed quests, paid expansion (status unverified)",
+"entrance": "",
+"giver_where": "",
+"tip": "Disambiguation page. It distinguishes the expansion (purchasable) from the adventure pack.",
+"group": "Feywild",
+"diff": "R1"
+},
+{
+"id": "the-graverobber",
+"why": "House Jorasco",
+"entrance": "House Jorasco. The quest takes place in the Lightfoot Residence.",
+"giver_where": "",
+"tip": "",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "the-tear-of-dhakaan",
+"why": "House Phiarlan, very long",
+"entrance": "House Phiarlan",
+"giver_where": "",
+"tip": "",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "gwylans-stand",
+"why": "House Phiarlan, very long",
+"entrance": "House Phiarlan. No zone details or coordinates.",
+"giver_where": "",
+"tip": "",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "return-to-deleras-tomb",
+"why": "Optional: Voice of the Master (+5% XP)",
+"entrance": "Delera's Graveyard. No further details.",
+"giver_where": "In House Jorasco",
+"tip": "",
+"group": "Delera",
+"diff": "R1"
+},
+{
+"id": "the-knight-who-cried-windmill",
+"why": "Feywild level 8",
+"entrance": "In The Feywild. Takes place at Saffron Hill.",
+"giver_where": "",
+"tip": "",
+"group": "Feywild",
+"diff": "R1"
+},
+{
+"id": "the-thornwright",
+"why": "Feywild level 8",
+"entrance": "In The Feywild. Takes place in Thornwright's Workshop.",
+"giver_where": "In Wynwood Hall",
+"tip": "",
+"group": "Feywild",
+"diff": "R1"
+},
+{
+"id": "quid-pro-quo",
+"why": "Feywild level 8",
+"entrance": "In The Feywild. No zone details or coordinates.",
+"giver_where": "In Wynwood Hall",
+"tip": "",
+"group": "Feywild",
+"diff": "R1"
+},
+{
+"id": "the-icemount-curse",
+"why": "Feywild level 8",
+"entrance": "In The Feywild. No zone details or coordinates.",
+"giver_where": "In Wynwood Hall",
+"tip": "",
+"group": "Feywild",
+"diff": "R1"
+},
+{
+"id": "needle-in-a-fey-stack",
+"why": "Feywild level 8",
+"entrance": "In The Feywild",
+"giver_where": "",
+"tip": "",
+"group": "Feywild",
+"diff": "R1"
+},
+{
+"id": "immortality-lessons",
+"why": "Feywild level 8",
+"entrance": "In The Feywild.",
+"giver_where": "At Wynwood Hall.",
+"tip": "",
+"group": "Feywild",
+"diff": "R1"
+},
+{
+"id": "stromvaulds-mine",
+"why": "House Deneith, level 8",
+"entrance": "Anvilfire Inn, in House Deneith.",
+"giver_where": "",
+"tip": "",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "caverns-of-korromar",
+"why": "House Kundarak, level 8",
+"entrance": "House Kundarak (objective: find the entrance to the Korromar excavation).",
+"giver_where": "",
+"tip": "",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "isle-of-dread",
+"why": "11 unnamed level 7 quests",
+"entrance": "",
+"giver_where": "",
+"tip": "There is no quest named Isle of Dread. It is a pack, so pick one of its quests.",
+"group": "Isle of Dread",
+"diff": "R1"
+},
+{
+"id": "haunted-library",
+"why": "Level 8 (no level 9 for F2P)",
+"entrance": "House Jorasco.",
+"giver_where": "",
+"tip": "The page also provides an image of the puzzle (File:Haunted_Library_Puzzle.png).",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "stormcleave-outpost",
+"why": "Level 8 (no level 9 for F2P)",
+"entrance": "Anvilfire Inn, in House Deneith.",
+"giver_where": "",
+"tip": "",
+"group": "Houses",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "garls-tomb",
+"why": "Ina variant 2019, level 9",
+"entrance": "",
+"giver_where": "In Barrel's Bottom.",
+"tip": "The page describes a chain: Old Grey Garl, then The Troglodytes' Get.",
+"group": "Ina variant",
+"diff": "R1"
+},
+{
+"id": "the-scoundrels-run",
+"why": "Ina variant 2019, level 9",
+"entrance": "In Three-Barrel Cove (Heroic).",
+"giver_where": "Barrel's Bottom",
+"tip": "",
+"group": "Ina variant",
+"diff": "R1"
+},
+{
+"id": "the-tear-of-dhakaan-2",
+"why": "Ina variant 2019, level 9",
+"entrance": "House Phiarlan",
+"giver_where": "",
+"tip": "",
+"group": "Ina variant",
+"diff": "R1"
+},
+{
+"id": "lamordia",
+"why": "Can cap your XP",
+"entrance": "No quest is named \"Lamordia\". It is a zone (Land of Lamordia). Entrances: House Jorasco, Eveningstar, or Ludendorf City Hall.",
+"giver_where": "",
+"tip": "Say which Lamordia quest you mean (for example Special Delivery or The Wish) to get an exact entry.",
+"group": "Level 10",
+"diff": "R1"
+},
+{
+"id": "tharashk-arena",
+"why": "VON 1",
+"entrance": "In House Kundarak.",
+"giver_where": "",
+"tip": "",
+"group": "Vault of Night",
+"diff": "R1"
+},
+{
+"id": "the-prisoner",
+"why": "VON 2",
+"entrance": "In House Kundarak, at Mistress Orphne's Haven.",
+"giver_where": "",
+"tip": "",
+"group": "Vault of Night",
+"diff": "R1"
+},
+{
+"id": "hiding-in-plain-sight",
+"why": "Free, level 10",
+"entrance": "At the Marketplace. The quest takes place in Cartamon's Shipping Warehouse.",
+"giver_where": "",
+"tip": "",
+"group": "Ataraxia",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "sykros-jewel",
+"why": "Ataraxia's Haven, level 10",
+"entrance": "In Ataraxia's Haven.",
+"giver_where": "",
+"tip": "",
+"group": "Ataraxia",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "reclamation",
+"why": "Ataraxia's Haven, level 10",
+"entrance": "In Ataraxia's Haven.",
+"giver_where": "",
+"tip": "",
+"group": "Ataraxia",
+"diff": "Normal/Hard/Elite"
+},
+{
+"id": "cult-of-the-six",
+"why": "Ina variant 2019, level 10-11",
+"entrance": "Sorrowdusk Isle. This is a chain of 6 quests (Fane of the Six x2, Sanctum x2, Temple Outpost x2).",
+"giver_where": "Sorrowdusk Isle",
+"tip": "Abandoning this chain also abandons Grey Moon Waning. Talk to Bruku again to redo it.",
+"group": "Ina variant",
+"diff": "R1"
+},
+{
+"id": "the-jungle-of-khyber",
+"why": "VON 3",
+"entrance": "In House Kundarak. It comes at the end of the quest Gateway to Khyber.",
+"giver_where": "",
+"tip": "A door closes behind you and a scorpion ambush follows. There are strength traps on each side of the first door.",
+"group": "Vault of Night",
+"diff": "R1"
+},
+{
+"id": "haywire-foundry",
+"why": "VON 4",
+"entrance": "In House Kundarak.",
+"giver_where": "",
+"tip": "Optional: disable 6 flame vents and destroy 10 Mithral Defenders during the escape.",
+"group": "Vault of Night",
+"diff": "R1"
+},
+{
+"id": "the-shadow-crypt",
+"why": "R1, then Elite",
+"entrance": "In The Necropolis (House Phiarlan).",
+"giver_where": "",
+"tip": "There are 3 versions of the map with different routing. See the Shadow Crypt Instances page.",
+"group": "Level 11",
+"diff": "R1 + Elite"
+},
+{
+"id": "white-plume-mountain",
+"why": "R01 route",
+"entrance": "In The Gatekeepers' Grove.",
+"giver_where": "",
+"tip": "The Gynosphinx asks one riddle out of three. The answers are 6, 7, or The Moon.",
+"group": "Level 11",
+"diff": "R1"
+},
+{
+"id": "the-enemy-within",
+"why": "Level 11, Very Long, free",
+"entrance": "In House Jorasco.",
+"giver_where": "",
+"tip": "Spike traps near the first lever. Spinning blades under the collapsing floors.",
+"group": "Houses (Jorasco)",
+"diff": "Elite"
+},
+{
+"id": "made-to-order",
+"why": "Level 11, free",
+"entrance": "Black Anvil Forest (House Kundarak).",
+"giver_where": "",
+"tip": "Required objectives: disable ARN-01D and talk to Haywire. Killing Goethe and the golems is optional.",
+"group": "Houses (Kundarak)",
+"diff": "Elite"
+},
+{
+"id": "the-spawn-of-whisperdoom",
+"why": "Level 11. XP dump toward 12",
+"entrance": "In Path to Whisperdoom (House Phiarlan).",
+"giver_where": "",
+"tip": "Elemental traps at the village gate and blades in the corridor south of the shrines.",
+"group": "Houses (Phiarlan)",
+"diff": "Elite"
+},
+{
+"id": "tempests-spine",
+"why": "R01 route. R4 possible in a group",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Level 12",
+"diff": "R1"
+},
+{
+"id": "the-vault-of-night",
+"why": "VON 5-6, raid, solid XP, House K favor",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Vault of Night",
+"diff": "R1"
+},
+{
+"id": "ravenloft-1",
+"why": "Chain 1. Quest names not listed",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Ravenloft",
+"diff": "R1"
+},
+{
+"id": "invaders",
+"why": "Level 12, Very Long, free",
+"entrance": "The Harbor (quest zone: Waterworks - Side Entrance)",
+"giver_where": "",
+"tip": "",
+"group": "Level 12",
+"diff": "Elite"
+},
+{
+"id": "dreams-of-insanity",
+"why": "Level 11, free",
+"entrance": "Pool of Reflection",
+"giver_where": "House Jorasco",
+"tip": "",
+"group": "Houses (Jorasco)",
+"diff": "Elite"
+},
+{
+"id": "the-chamber-of-rahmat",
+"why": "Fallback if you are behind on XP",
+"entrance": "Sands of Menechtarun (the quest takes place in the Tomb of the Physician)",
+"giver_where": "Zawabi's Refuge",
+"tip": "",
+"group": "Level 10-12 fallbacks",
+"diff": "R1"
+},
+{
+"id": "sykros-jewel-2",
+"why": "Fallback if you are behind on XP",
+"entrance": "In Ataraxia's Haven.",
+"giver_where": "",
+"tip": "",
+"group": "Level 10-12 fallbacks",
+"diff": "R1"
+},
+{
+"id": "reclamation-2",
+"why": "Fallback if you are behind on XP",
+"entrance": "In Ataraxia's Haven.",
+"giver_where": "",
+"tip": "",
+"group": "Level 10-12 fallbacks",
+"diff": "R1"
+},
+{
+"id": "attack-on-stormreach-arc",
+"why": "Heroic version, level 12, paid pack",
+"entrance": "",
+"giver_where": "Lordsmarch Plaza",
+"tip": "This is an arc of 4 quests (Assault on Summerfield, Blockade Buster, Siegebreaker, Undermine).",
+"group": "TavernTails's opinion",
+"diff": "Elite"
+},
+{
+"id": "demon-sands",
+"why": "Easy to find groups",
+"entrance": "",
+"giver_where": "",
+"tip": "This is the pack (11 quests, the first is The Chamber of Rahmat).",
+"group": "TavernTails's opinion",
+"diff": "Elite"
+},
+{
+"id": "ravenloft-2",
+"why": "Chain 2. Quest names not listed",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Ravenloft",
+"diff": "R1"
+},
+{
+"id": "the-chamber-of-kourush",
+"why": "Level 11 base",
+"entrance": "Entrance in the Sands of Menechtarun. The quest is listed in Zawabi's Refuge and takes place in the Tomb of the Astrologer.",
+"giver_where": "",
+"tip": "",
+"group": "Sands of Menechtarun",
+"diff": "R1"
+},
+{
+"id": "maraud-the-mines",
+"why": "Level 11 base",
+"entrance": "Entrance in the Sands of Menechtarun. The quest is listed in Zawabi's Refuge and takes place in the Firebrand Mines.",
+"giver_where": "",
+"tip": "",
+"group": "Sands of Menechtarun",
+"diff": "R1"
+},
+{
+"id": "purge-the-fallen-shrine",
+"why": "Level 11 base",
+"entrance": "Entrance in the Sands of Menechtarun, at the end of a path on the west side of the desert. The quest takes place in The Fallen Shrine.",
+"giver_where": "",
+"tip": "",
+"group": "Sands of Menechtarun",
+"diff": "R1"
+},
+{
+"id": "an-offering-of-blood",
+"why": "Level 11 base",
+"entrance": "Entrance in the Sands of Menechtarun. The quest is listed in Zawabi's Refuge and takes place in The Vulkoorim Spiral.",
+"giver_where": "",
+"tip": "Fire trap on the first bridge, lightning trap around the blocked hill path. A locked door appears after the first two turns south and after the trapped bridge.",
+"group": "Sands of Menechtarun",
+"diff": "R1"
+},
+{
+"id": "raid-the-vulkoorim",
+"why": "Level 11 base",
+"entrance": "Entrance in the Sands of Menechtarun. The quest is listed in Zawabi's Refuge and takes place in the Vulkoorim Creche.",
+"giver_where": "",
+"tip": "Objectives: Southern and Eastern Breeding Pits, kill the Vulkoorim Shepherd and 6 Spawn of Vulkoor.",
+"group": "Sands of Menechtarun",
+"diff": "R1"
+},
+{
+"id": "dinosaur-crisis",
+"why": "Level 13, free",
+"entrance": "The quest is listed in The Harbor and takes place in the Horde Gathering Place.",
+"giver_where": "",
+"tip": "Optional objective: kill the 2 Horde Guides.",
+"group": "Level 13",
+"diff": "Elite"
+},
+{
+"id": "mired-in-kobolds",
+"why": "Level 13, free",
+"entrance": "Entrance in The Twelve. The quest takes place in Driftwood Mire.",
+"giver_where": "",
+"tip": "Destroying the crystals triggers a lightning trap (stunning in melee). There is a piercing trap in the spike growth area.",
+"group": "Level 13",
+"diff": "Elite"
+},
+{
+"id": "ravenloft-3",
+"why": "Chain 3. Quest names not listed",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Ravenloft",
+"diff": "R1"
+},
+{
+"id": "the-chamber-of-raiyum",
+"why": "R01 route",
+"entrance": "In the Sands of Menechtarun. The quest takes place in the Tomb of the Wizard King",
+"giver_where": "Zawabi's Refuge",
+"tip": "",
+"group": "Level 14",
+"diff": "R1"
+},
+{
+"id": "a-relic-of-a-sovereign-past",
+"why": "R01 route",
+"entrance": "Black Anvil Forest",
+"giver_where": "Temple of the Sovereign Host",
+"tip": "",
+"group": "Level 14",
+"diff": "R1"
+},
+{
+"id": "diplomatic-impunity",
+"why": "Lordsmarch 1, free",
+"entrance": "",
+"giver_where": "Lordsmarch Plaza",
+"tip": "",
+"group": "Lordsmarch 1",
+"diff": "R1"
+},
+{
+"id": "frame-work",
+"why": "Lordsmarch 1, after Diplomatic Impunity",
+"entrance": "Lordsmarch Plaza",
+"giver_where": "Lordsmarch Plaza",
+"tip": "",
+"group": "Lordsmarch 1",
+"diff": "R1"
+},
+{
+"id": "eyes-of-stone",
+"why": "Lordsmarch 1, after Frame Work",
+"entrance": "Lordsmarch Plaza",
+"giver_where": "",
+"tip": "",
+"group": "Lordsmarch 1",
+"diff": "R1"
+},
+{
+"id": "tower-of-frost",
+"why": "Level 14, free",
+"entrance": "In The Marketplace",
+"giver_where": "The Marketplace",
+"tip": "",
+"group": "Level 14",
+"diff": "Elite"
+},
+{
+"id": "assault-on-summerfield",
+"why": "Lordsmarch 2",
+"entrance": "In Lordsmarch Plaza. The quest takes place in the Summerfield District.",
+"giver_where": "The Marketplace",
+"tip": "",
+"group": "Lordsmarch 2",
+"diff": "R1"
+},
+{
+"id": "blockade-buster",
+"why": "Lordsmarch 2",
+"entrance": "In The Harbor: find Mist to join the blockade.",
+"giver_where": "Lordsmarch Plaza",
+"tip": "In the harbor, find Mist to be taken to the blockade.",
+"group": "Lordsmarch 2",
+"diff": "R1"
+},
+{
+"id": "undermine",
+"why": "Lordsmarch 2",
+"entrance": "Lordsmarch Palace (area: Sapper Tunnel)",
+"giver_where": "Lordsmarch Plaza",
+"tip": "",
+"group": "Lordsmarch 2",
+"diff": "R1"
+},
+{
+"id": "siegebreaker",
+"why": "Lordsmarch 2",
+"entrance": "In Lordsmarch Plaza. The quest takes place in the Temple Ruins.",
+"giver_where": "The Marketplace",
+"tip": "",
+"group": "Lordsmarch 2",
+"diff": "R1"
+},
+{
+"id": "the-maze-of-madness",
+"why": "Walk-up, level 13, premium pack",
+"entrance": "Ruins of Gianthold. The quest takes place in a Minotaur Lair.",
+"giver_where": "Gianthold",
+"tip": "",
+"group": "Gianthold",
+"diff": "R1"
+},
+{
+"id": "a-cry-for-help",
+"why": "Walk-up, level 13, Very Long",
+"entrance": "Walk-up quest in the public area Ruins of Gianthold (Gianthold).",
+"giver_where": "",
+"tip": "",
+"group": "Gianthold",
+"diff": "R1"
+},
+{
+"id": "feast-or-famine",
+"why": "Walk-up, level 13",
+"entrance": "Walk-up quest in Ruins of Gianthold (Gianthold). It takes place in the Orc Lair.",
+"giver_where": "",
+"tip": "",
+"group": "Gianthold",
+"diff": "R1"
+},
+{
+"id": "foundation-of-discord",
+"why": "Walk-up, level 13",
+"entrance": "Ruins of Gianthold (Gianthold). It takes place in the Aurum Lair.",
+"giver_where": "",
+"tip": "",
+"group": "Gianthold",
+"diff": "R1"
+},
+{
+"id": "trial-by-fire-quest",
+"why": "Walk-up, level 13",
+"entrance": "Ruins of Gianthold (Gianthold), Heroic and Epic versions.",
+"giver_where": "",
+"tip": "",
+"group": "Gianthold",
+"diff": "R1"
+},
+{
+"id": "the-safehold",
+"why": "Level 13, premium pack",
+"entrance": "Entrance in The Ruins of Myth Drannor. The quest is listed in Outskirts of Myth Drannor.",
+"giver_where": "Outskirts of Myth Drannor",
+"tip": "First arc: Magic of Myth Drannor Part One.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "death-hosts-this-banquet",
+"why": "Level 13, premium pack",
+"entrance": "Entrance in The Ruins of Myth Drannor. The quest is listed in Outskirts of Myth Drannor.",
+"giver_where": "Outskirts of Myth Drannor",
+"tip": "First arc: Magic of Myth Drannor Part One.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "the-key-to-the-mythal",
+"why": "Level 13, Very Long",
+"entrance": "Entrance in The Ruins of Myth Drannor. The quest is listed in Outskirts of Myth Drannor and takes place in Ildrannath's Tower.",
+"giver_where": "",
+"tip": "The page includes puzzle images.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "secrets-of-the-red-wizards",
+"why": "Level 13, premium pack",
+"entrance": "Entrance in The Ruins of Myth Drannor (Outskirts of Myth Drannor).",
+"giver_where": "",
+"tip": "Second arc: Magic of Myth Drannor Part Two.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "the-house-of-gems",
+"why": "Level 13, Medium",
+"entrance": "Takes place in The Onaglym",
+"giver_where": "",
+"tip": "Blade trap at the first turn. Don't step on the \"?\" tile in the puzzle (electrified floor).",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "times-long-past",
+"why": "Level 13, Very Long",
+"entrance": "The Ruins of Myth Drannor, in Outskirts of Myth Drannor. It takes place in The Temple to Labelas Enoreth.",
+"giver_where": "",
+"tip": "No traps in this quest. There are 3 optional notes to read.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "the-zulkirs-plan",
+"why": "Level 13, Long",
+"entrance": "The Ruins of Myth Drannor",
+"giver_where": "",
+"tip": "Spike trap in the collapsing floor of the Staff Quarters. The Slay Experiment Three chest drops where the monster dies.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "book-burning",
+"why": "Level 13, premium pack",
+"entrance": "The Ruins of Myth Drannor, in Outskirts of Myth Drannor",
+"giver_where": "",
+"tip": "The rare Fire Giant's second chest only appears if you resolve the encounter with a skill check instead of fighting.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "ettercap-incursion",
+"why": "Level 13, premium pack",
+"entrance": "From Outskirts of Myth Drannor",
+"giver_where": "",
+"tip": "Kill bonuses at 18, 35 and 52 monsters. Optional objectives: 4 captured elves and Spiderculler.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "seeds-of-decay",
+"why": "Level 13, premium pack",
+"entrance": "The Ruins of Myth Drannor, in Outskirts of Myth Drannor, through the Portal to the Temple of Moander.",
+"giver_where": "No NPC: the quest is given by the Portal to the Temple of Moander.",
+"tip": "Green slime at the first crossing, acid floor to the southwest, pressure plates around the locked chest.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "portal-to-below",
+"why": "Level 13, premium pack",
+"entrance": "The Ruins of Myth Drannor, in Outskirts of Myth Drannor",
+"giver_where": "",
+"tip": "Trapped chests in the last room and on the ledge of the lower cavern. Finding a secret door gives +8% (Observance).",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "voices-of-the-dead",
+"why": "Level 13, Medium",
+"entrance": "The Ruins of Myth Drannor, in Outskirts of Myth Drannor",
+"giver_where": "",
+"tip": "The 3x3 logic puzzle is optional. Skipping it increases monster density. Elred's amulet only works in Burial Glen.",
+"group": "Myth Drannor",
+"diff": "R1"
+},
+{
+"id": "disciples-of-shar",
+"why": "Level 15, free",
+"entrance": "Eveningstar (you pick up and enter the quest there).",
+"giver_where": "",
+"tip": "22 bear traps, some in an optional area. The bonus requires 19 traps disarmed.",
+"group": "Eveningstar",
+"diff": "Elite"
+},
+{
+"id": "escape-plan",
+"why": "Level 15, after Disciples of Shar",
+"entrance": "Eveningstar (you pick up and enter the quest there).",
+"giver_where": "",
+"tip": "Bear traps in front of the ambushes and in the final area. Disarming 5, 6 or 8 gives bonus tiers.",
+"group": "Eveningstar",
+"diff": "Elite"
+},
+{
+"id": "search-and-rescue",
+"why": "Level 15, Long",
+"entrance": "Eveningstar (you pick up and enter the quest there).",
+"giver_where": "",
+"tip": "Disarming 5 or more traps in the Drow Outpost gives the Ingenious Debilitation bonus (+30% XP).",
+"group": "Eveningstar",
+"diff": "Elite"
+},
+{
+"id": "lost-at-sea",
+"why": "Level 15, free",
+"entrance": "The Harbor (you pick up and enter the quest there).",
+"giver_where": "",
+"tip": "Cold and force traps on the ramp of the northeast room.",
+"group": "Level 15",
+"diff": "Elite"
+},
+{
+"id": "delirium",
+"why": "Level 15, free",
+"entrance": "The Twelve. The quest takes place in the Sleeping Spell Inn.",
+"giver_where": "",
+"tip": "Optional objectives: the beholder's drinking contest and killing Ruul, Thaarak pack leader.",
+"group": "Level 15",
+"diff": "Elite"
+},
+{
+"id": "acid-wit",
+"why": "Level 15, Long, free",
+"entrance": "The Twelve.",
+"giver_where": "",
+"tip": "Acid sprays in the southwest passage and in the final room.",
+"group": "Level 15",
+"diff": "Elite"
+},
+{
+"id": "records-of-the-past",
+"why": "Listed with Myth Drannor, premium pack",
+"entrance": "Tethyamar Mining Outpost.",
+"giver_where": "",
+"tip": "Opening the big courtyard door disables the blade trap next to it. Puzzle lightning trap: disable the red tiles.",
+"group": "Mines of Tethyamar",
+"diff": "R1"
+},
+{
+"id": "desire-in-the-dark",
+"why": "Listed with Myth Drannor, premium pack",
+"entrance": "Tethyamar Mining Outpost.",
+"giver_where": "",
+"tip": "Graz'zt does not count toward the 100 kills for the Conquest bonus (+25%).",
+"group": "Mines of Tethyamar",
+"diff": "R1"
+},
+{
+"id": "strike-back",
+"why": "Listed with Myth Drannor, premium pack",
+"entrance": "Eveningstar, entrance to the Tethyamar Mining Outpost.",
+"giver_where": "",
+"tip": "Traps: 3 spell wards on the bridge, 1 in the cavern after the bridge, 1 in the officers' quarters.",
+"group": "Mines of Tethyamar",
+"diff": "R1"
+},
+{
+"id": "madstone-crater",
+"why": "Level 14. Talzor: start here",
+"entrance": "Ruins of Gianthold (Heroic), in Gianthold",
+"giver_where": "",
+"tip": "",
+"group": "Gianthold",
+"diff": "R1"
+},
+{
+"id": "the-crucible",
+"why": "Level 14, very good XP per minute",
+"entrance": "Ruins of Gianthold (Heroic or Epic), in Gianthold",
+"giver_where": "",
+"tip": "Traps: collapsing floor over spikes near the Horn of Cunning, Test of Instinct (wrong door), underwater swim, blades in the Agility test, corridors.",
+"group": "Gianthold",
+"diff": "R1"
+},
+{
+"id": "subversion",
+"why": "Level 14, premium pack",
+"entrance": "In The Twelve.",
+"giver_where": "",
+"tip": "Two locks: the Titan Storage Area (grate) and a locked chest behind a secret door.",
+"group": "Devil's Gambit",
+"diff": "R1"
+},
+{
+"id": "litany-of-the-dead",
+"why": "Level 15, Necropolis Part 4 pack",
+"entrance": "Upper Necropolis.",
+"giver_where": "",
+"tip": "Run it 4 times to unlock the Ascension Chamber.",
+"group": "Necropolis 4",
+"diff": "R1"
+},
+{
+"id": "grim-and-barrett",
+"why": "Mentioned on the forum, level unverified",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Level 16",
+"diff": "R1"
+},
+{
+"id": "a-sharn-welcome",
+"why": "Level 15, Masterminds of Sharn",
+"entrance": "",
+"giver_where": "",
+"tip": "Bring feather fall and use it only after the quest is done. Everyone must loot the final chest.",
+"group": "Sharn 1",
+"diff": "R1"
+},
+{
+"id": "red-rain",
+"why": "Level 15",
+"entrance": "Sharn - Clifftop Tower District. The quest takes place in Cogsgate. Prerequisite: A Sharn Welcome.",
+"giver_where": "",
+"tip": "XP bonuses: monsters (25/50/75), breakables (20/26/32) and a secret door to find.",
+"group": "Sharn 1",
+"diff": "R1"
+},
+{
+"id": "just-business",
+"why": "Level 15",
+"entrance": "Sharn - Clifftop Tower District. The quest takes place in Dava Gate. Prerequisite: The Same Old Song.",
+"giver_where": "",
+"tip": "Disarm Irk's traps before disabling them, or the Ingenious Debilitation bonus disappears.",
+"group": "Sharn 1",
+"diff": "R1"
+},
+{
+"id": "best-laid-plans",
+"why": "Level 15",
+"entrance": "Sharn - Clifftop Tower District. Requires Red Rain.",
+"giver_where": "",
+"tip": "Optional objectives: break 25/50/75 containers and recover 3 prototypes before they are destroyed.",
+"group": "Sharn 1",
+"diff": "R1"
+},
+{
+"id": "the-same-old-song",
+"why": "Level 15, Long",
+"entrance": "Sharn - Clifftop Tower District. Requires Best Laid Plans.",
+"giver_where": "",
+"tip": "Optional: open the Clawfoot pen, exterminate the rats, and investigate Tiny's shipment.",
+"group": "Sharn 1",
+"diff": "R1"
+},
+{
+"id": "ruinous-schemes",
+"why": "Walk-up level 15, after Sharn 1",
+"entrance": "Enter through The Cogs (quest listed in Sharn - Clifftop Tower District). It takes place in The Depths - Temple Excavation. Walk-up.",
+"giver_where": "",
+"tip": "The breakable bonuses (Mischief, Vandal) require you to do the optional area. Crig is an optional boss.",
+"group": "Cogs 15",
+"diff": "R1"
+},
+{
+"id": "smash-and-burn",
+"why": "Walk-up level 15",
+"entrance": "Enter through The Cogs (quest listed in Sharn - Clifftop Tower District). Walk-up.",
+"giver_where": "",
+"tip": "Disarm both traps in the Forgewraith's room for the Neutralization and Ingenious Debilitation bonuses.",
+"group": "Cogs 15",
+"diff": "R1"
+},
+{
+"id": "thralls-of-the-fungus-lord",
+"why": "Walk-up level 15",
+"entrance": "Enter through The Cogs (Cogs Fighting Arena). Walk-up. First objective: talk to Felix.",
+"giver_where": "",
+"tip": "All the traps are in the optional section. The Ingenious Debilitation bonus requires it.",
+"group": "Cogs 15",
+"diff": "R1"
+},
+{
+"id": "the-wraithcallers",
+"why": "Walk-up level 15, Short",
+"entrance": "In The Cogs (Sharn, Clifftop Tower District). Walk-up quest, set in the Wraithcaller's Temple.",
+"giver_where": "",
+"tip": "Water Elemental Fury is optional. XP bonus at 14/27/41 monsters.",
+"group": "Cogs 15",
+"diff": "R1"
+},
+{
+"id": "roll-call",
+"why": "Walk-up level 16; page changed after U81",
+"entrance": "Enter from The Cogs (Sharn, Clifftop Tower District). Set in Alcorin's Forge - Construct Maintenence Wing.",
+"giver_where": "",
+"tip": "The Onslaught bonus (67+ monsters) requires the optional objective.",
+"group": "Cogs 16",
+"diff": "R1"
+},
+{
+"id": "security-detail",
+"why": "Walk-up level 16, Short",
+"entrance": "In The Cogs (Sharn, Clifftop Tower District). Walk-up quest, set in the Abandoned Vaunt Office.",
+"giver_where": "",
+"tip": "Vandal and Ransack require you to open the optional Model X9.",
+"group": "Cogs 16",
+"diff": "R1"
+},
+{
+"id": "scavenger-hunt",
+"why": "Walk-up level 16, Short",
+"entrance": "In The Cogs (Sharn, Clifftop Tower District). Walk-up, set at the Sewer Access Point.",
+"giver_where": "",
+"tip": "Optional rare monster: Daask Basher. XP bonus at 11/22/33 monsters.",
+"group": "Cogs 16",
+"diff": "R1"
+},
+{
+"id": "the-magma-must-flow",
+"why": "Walk-up level 16, Short",
+"entrance": "In The Cogs (Sharn, Clifftop Tower District). Walk-up, set in the Malfunctioning Lava Forge.",
+"giver_where": "",
+"tip": "XP bonus at 22 (+10%) and 44+ (+15%) monsters.",
+"group": "Cogs 16",
+"diff": "R1"
+},
+{
+"id": "good-intentions",
+"why": "Level 17, Long, free",
+"entrance": "",
+"giver_where": "",
+"tip": "Blade traps in the north hallway and in the underwater section. A lever opens the north door.",
+"group": "Level 17",
+"diff": "Elite"
+},
+{
+"id": "no-refunds",
+"why": "Level 16, after Cogs",
+"entrance": "Sharn, Clifftop Tower District. Set in Belgrave's Emporium.",
+"giver_where": "",
+"tip": "",
+"group": "Sharn 2",
+"diff": "R1"
+},
+{
+"id": "house-of-pain",
+"why": "Level 16, Long",
+"entrance": "Sharn, Clifftop Tower District.",
+"giver_where": "",
+"tip": "You must have done Just Business first. Blown Deadline requires House of Pain.",
+"group": "Sharn 2",
+"diff": "R1"
+},
+{
+"id": "blown-deadline",
+"why": "Level 16",
+"entrance": "Sharn, Clifftop Tower District.",
+"giver_where": "",
+"tip": "Requires House of Pain. Unlocks Reach for the Sky.",
+"group": "Sharn 2",
+"diff": "R1"
+},
+{
+"id": "reach-for-the-sky",
+"why": "Level 16, Long; then turn in the sagas",
+"entrance": "Sharn, Clifftop Tower District.",
+"giver_where": "",
+"tip": "Requires Blown Deadline.",
+"group": "Sharn 2",
+"diff": "R1"
+},
+{
+"id": "vecna-unleashed",
+"why": "Level 18; some players consider it useless",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Vecna Unleashed",
+"diff": "R1"
+},
+{
+"id": "kill-ten-rats",
+"why": "Level 18, the highest free quest",
+"entrance": "Sharn, Clifftop Tower District.",
+"giver_where": "",
+"tip": "",
+"group": "Level 18",
+"diff": "Elite"
+},
+{
+"id": "the-trackers-trap",
+"why": "Heroic 19; access not verified",
+"entrance": "Entrance in The Storm Horns. The quest is set in The Yarrow Glade.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "Secret of the Storm Horns",
+"diff": "R1"
+},
+{
+"id": "what-goes-up",
+"why": "Heroic 19; access not verified",
+"entrance": "Entrance in The Storm Horns. The quest is set in Mountain Glacier.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "Secret of the Storm Horns",
+"diff": "R1"
+},
+{
+"id": "breaking-the-ranks",
+"why": "Heroic 19; access not verified",
+"entrance": "Entrance in The Storm Horns. The quest is set in Netherese Central Camp.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "Secret of the Storm Horns",
+"diff": "R1"
+},
+{
+"id": "a-break-in-the-ice",
+"why": "Heroic 19; access not verified",
+"entrance": "In The Storm Horns, reachable from Eveningstar.",
+"giver_where": "Eveningstar",
+"tip": "Rungnir is inside a glacier.",
+"group": "Secret of the Storm Horns",
+"diff": "R1"
+},
+{
+"id": "lines-of-supply",
+"why": "Heroic 19; then turn in Perils",
+"entrance": "West edge of The Storm Horns foothills.",
+"giver_where": "Eveningstar",
+"tip": "Optional objectives: remove the archers from the upper pass and kill all the convoy carriers.",
+"group": "Secret of the Storm Horns",
+"diff": "R1"
+},
+{
+"id": "the-lords-of-dust",
+"why": "Level 16 patron quest; version to be checked",
+"entrance": "",
+"giver_where": "",
+"tip": "Go to the back of the first room before you engage. The monsters in front do not attack right away.",
+"group": "Lords of Dust",
+"diff": "R1"
+},
+{
+"id": "servants-of-the-overlord",
+"why": "Level 16 patron quest",
+"entrance": "",
+"giver_where": "",
+"tip": "Smash the objects in the optional area before the crests (5 or more for the Mischief bonus).",
+"group": "Lords of Dust",
+"diff": "R1"
+},
+{
+"id": "the-spinner-of-shadows-quest",
+"why": "Level 16 patron quest",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Lords of Dust",
+"diff": "R1"
+},
+{
+"id": "the-vale-of-twilight-pack",
+"why": "Cited on the forum; level not verified",
+"entrance": "",
+"giver_where": "",
+"tip": "Adventure pack for 995 DDO Points, not a quest. Among other things, it contains The Thirteenth Eclipse (level 17).",
+"group": "Patron 18-20",
+"diff": "R1"
+},
+{
+"id": "morgrave-university-upper-commons",
+"why": "Trampturd: Hard without Reaper Points",
+"entrance": "",
+"giver_where": "",
+"tip": "Public area in Sharn (Upper Menthis Plateau), not a quest. It has quest givers (Saphelsa Stamiss, Creighton Ebinor, High Priestess Valeria) and saga givers (Aster and Orm the Trail-blazer).",
+"group": "Patron 18-20",
+"diff": "Hard"
+},
+{
+"id": "eveningstar",
+"why": "Level 15 quests; some players consider it useless",
+"entrance": "Village north of King's Forest, in a bend of the Starwater River. The Crafting Hall is in the building at the northwest corner of the square (near the vendors). The Lonesome Tankard tavern is on the east side, before the bridge to the Stormhorns.",
+"giver_where": "",
+"tip": "Public hub with many quest and saga givers (Gatekeeper Gizla, Lady Azana Winter, Elminster).",
+"group": "Patron 18-20",
+"diff": "R1"
+},
+{
+"id": "bargain-of-blood",
+"why": "Epic start, saga; about 1 Token of the Twelve",
+"entrance": "Searing Heights.",
+"giver_where": "House Deneith",
+"tip": "",
+"group": "Pirates of the Thunder Sea",
+"diff": "Elite"
+},
+{
+"id": "storm-the-beaches",
+"why": "Saga; mostly gives Token Fragments",
+"entrance": "In House Deneith.",
+"giver_where": "House Deneith",
+"tip": "Blade trap at the east door (on the right, outside). A locked door opens with levers.",
+"group": "Pirates of the Thunder Sea",
+"diff": "Elite"
+},
+{
+"id": "the-tide-turns",
+"why": "Saga; about 1 Token",
+"entrance": "In House Deneith. The quest is set in Sentinels Tower.",
+"giver_where": "House Deneith",
+"tip": "Traps in the north hallway (fire, blades) and, on Epic only, a lightning trap in the central room.",
+"group": "Pirates of the Thunder Sea",
+"diff": "Elite"
+},
+{
+"id": "the-black-loch",
+"why": "Saga; about 1 Token",
+"entrance": "House Deneith",
+"giver_where": "House Deneith",
+"tip": "",
+"group": "Pirates of the Thunder Sea",
+"diff": "Elite"
+},
+{
+"id": "spies-in-the-house",
+"why": "Saga; about 1.5 Tokens, good Reaper tier 1 benchmark",
+"entrance": "House Deneith",
+"giver_where": "House Deneith",
+"tip": "Optional objectives: free 4 prisoners including Kaylahn, Vasimus, Plorax and Ereniel. Locked chest at the top of the shaft.",
+"group": "Pirates of the Thunder Sea",
+"diff": "Elite"
+},
+{
+"id": "the-legend-of-two-toed-tobias-2",
+"why": "Epic daily from the 2017 guide (20-26), old benchmark",
+"entrance": "Three-Barrel Cove (Heroic)",
+"giver_where": "Barrel's Bottom",
+"tip": "Rockfall trap on the second valve, west wall of the platform. Locked chest in the final room.",
+"group": "Dailies Reaper 2017",
+"diff": "R1"
+},
+{
+"id": "return-to-deleras-tomb-2",
+"why": "Daily from the 2017 guide (Epic Deleras part 4); Epic Voice of the Master",
+"entrance": "Delera's Graveyard",
+"giver_where": "House Jorasco",
+"tip": "You have to go back and forth with Hargo, so you finish the quest several times. It follows Thrall of the Necromancer.",
+"group": "Dailies Reaper 2017",
+"diff": "R1"
+},
+{
+"id": "a-small-problem",
+"why": "Tokens list (level not specified): 20 Tokens = 1 heart",
+"entrance": "House Phiarlan. The quest is set in Mammoth Valley.",
+"giver_where": "House Phiarlan",
+"tip": "Optional: keep the Brothers Grim alive, defeat 8 enraged hearth spirits and 6 rock spirits.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "partycrashers",
+"why": "Tokens list (level not specified)",
+"entrance": "House Phiarlan. The quest is set in the Phiarlan Chapterhouse, going through the Illusionarium first.",
+"giver_where": "",
+"tip": "Spike trap before the 3rd area of the Illusionarium, air trap in the 3rd hallway, spinning blades under the theater.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "the-snitch",
+"why": "Tokens list; mostly gives Fragments (50 to 70)",
+"entrance": "House Phiarlan. The quest is set in the Phiarlan Chapterhouse.",
+"giver_where": "House Phiarlan",
+"tip": "The incinerator fire trap cannot be disarmed. Roderic Nettle summons creatures every time he appears.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "under-the-big-top",
+"why": "Tokens list (level not specified)",
+"entrance": "House Phiarlan. The starting objective is to reach the Big Top entrance.",
+"giver_where": "House Phiarlan",
+"tip": "Requires A Small Problem, Partycrashers and The Snitch. Several Wheels of Ill-Fortune are trapped.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "gateway-to-khyber",
+"why": "Tokens list (level not specified)",
+"entrance": "House Kundarak. The instance is set at the Blackheart Encampment.",
+"giver_where": "House Kundarak",
+"tip": "The Blackheart Overlords are optional and break the trolls' morale.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "the-jungle-of-khyber-2",
+"why": "About 1.5 Tokens. Zhildye's route in Reaper.",
+"entrance": "It's at the end of Gateway to Khyber (House Kundarak). The instance takes place in The Jungle of Khyber.",
+"giver_where": "House Kundarak",
+"tip": "There are strength traps on each side of the first door. One door closes on a scorpion ambush.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "plane-of-night",
+"why": "Tokens list. Raid with a Greater Token.",
+"entrance": "House Kundarak, entrance in The Vault of Night.",
+"giver_where": "House Kundarak",
+"tip": "Destroy all three pillars at the same time to drop the shield that blocks access to Velah's lair.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "against-the-demon-queen-quest",
+"why": "Tokens list (level not specified).",
+"entrance": "Sands of Menechtarun (Zawabi's Refuge)",
+"giver_where": "Zawabi's Refuge",
+"tip": "You need the Orb of the Djinn, the Blood Bowl, and the Phylactery of Raiyum.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "an-offering-of-blood-2",
+"why": "Tokens list. Zhildye's route and the 2017 guide.",
+"entrance": "Sands of Menechtarun. The instance takes place in The Vulkoorim Spiral.",
+"giver_where": "Zawabi's Refuge",
+"tip": "There's a fire trap on the first bridge (a warning is on the west wall). There's a lightning trap on the path up the hill.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "chains-of-flame",
+"why": "The best one: about 2.5 Tokens.",
+"entrance": "Sands of Menechtarun. The instance takes place in The Burning City.",
+"giver_where": "Zawabi's Refuge",
+"tip": "There are flame traps on the first bridge and on the door lever. A swinging blade sits before the boss.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "the-chamber-of-raiyum-2",
+"why": "Tokens list. Zhildye's route in Reaper.",
+"entrance": "Sands of Menechtarun (Zawabi's Refuge). The instance takes place in Tomb of the Wizard King.",
+"giver_where": "Zawabi's Refuge",
+"tip": "The traps are optional, depending on the room type. There's a blade trap in the main ground-floor hallway of Tower 1.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "zawabis-revenge",
+"why": "Tokens list. Raid with a Greater Token.",
+"entrance": "Zawabi's Refuge, Sands of Menechtarun. The instance takes place in The Circle of Eternity.",
+"giver_where": "Zawabi's Refuge",
+"tip": "Raid: the goal is to kill Queen Lailat. You must have done Against the Demon Queen first.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "fathom-the-depths",
+"why": "Mostly gives Fragments. Good XP per minute (Wipe).",
+"entrance": "In The Red Fens.",
+"giver_where": "",
+"tip": "There are sonic traps in the hallway before the barrier lever and in the swimming rooms. Free the 7 Raveneye captives before you lower the barriers.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "into-the-deep",
+"why": "Tokens list (level not specified).",
+"entrance": "In The Red Fens. Walk to the quest entrance and talk to Ta Prin.",
+"giver_where": "At the quest entrance.",
+"tip": "Flagging quest: it requires Fathom the Depths, The Last Stand, and The Claw of Vulkoor. Underwater combat is slowed. Fire is 80%, lightning and sonic are 120%.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "the-claw-of-vulkoor",
+"why": "Tokens list (level not specified).",
+"entrance": "In The Red Fens. The quest takes place in Claw Canyon.",
+"giver_where": "",
+"tip": "There are fire traps on the levers of the east and south secret rooms and in the hallway. This quest is required for the Into the Deep flag.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "the-last-stand",
+"why": "Tokens list (level not specified).",
+"entrance": "In The Red Fens. The quest takes place in Refuge of the Ancestors.",
+"giver_where": "",
+"tip": "Viercha Ettervs must survive. Keep at least one Raveneye villager alive for the optional objective.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "devil-assault",
+"why": "Tokens list (level not specified).",
+"entrance": "In The Marketplace. The quest takes place in Market Barracks.",
+"giver_where": "",
+"tip": "Wave defense: waves 1 to 4 are optional. Wave 5 is required to finish.",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "the-chronoscope",
+"why": "Raid: Tokens and Fragments, with a Greater Token.",
+"entrance": "In The Marketplace.",
+"giver_where": "",
+"tip": "",
+"group": "Tokens of the Twelve",
+"diff": "Elite"
+},
+{
+"id": "beyond-the-rift",
+"why": "Saga. The quest is marked Free To Play.",
+"entrance": "The Harbor, entrance at The Spinner's Prison.",
+"giver_where": "",
+"tip": "Seven trap locations are listed, including spell wards near the Underdark portals.",
+"group": "The End of Eberron",
+"diff": "Elite"
+},
+{
+"id": "impossible-demands",
+"why": "Saga. 11,472 Elite XP, 113 RXP per skull.",
+"entrance": "In The King's Forest.",
+"giver_where": "",
+"tip": "Rescue all the hostages without being spotted by the Priestess. 7 Fire Spell Wards are known.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "the-unquiet-graves",
+"why": "Saga. Menace of the Underdark expansion.",
+"entrance": "The quest is listed in Eveningstar. The entrance is in The King's Forest. It takes place in Deep Glen Graveyard.",
+"giver_where": "",
+"tip": "Objective: investigate the Abandoned Village, then defeat 3 Dark Incanters.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "the-lost-thread",
+"why": "Saga. Menace of the Underdark expansion.",
+"entrance": "The quest is found in Eveningstar. The entrance is in The King's Forest.",
+"giver_where": "",
+"tip": "There are bear traps and fire jets in the secret passage of the first room. Freeing the slaves gives optional objectives.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "the-battle-for-eveningstar",
+"why": "Saga. End of Menace level 21.",
+"entrance": "The quest is located in Eveningstar.",
+"giver_where": "",
+"tip": "There are bear traps on the westernmost path. Lighting the 8 bonfires is optional.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "the-house-of-death-undone",
+"why": "Saga. Menace level 22.",
+"entrance": "The quest is found in Eveningstar. The entrance is in Sschindylryn.",
+"giver_where": "",
+"tip": "You enter disguised with the Illusion spell. Destroy the cauldrons and defeat the sorcerer Relig.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "the-house-of-rusted-blades",
+"why": "Saga. Menace level 22.",
+"entrance": "The quest is found in Eveningstar. The entrance is in Sschindylryn.",
+"giver_where": "",
+"tip": "Disguise yourself as a drow before you enter. Apply the ichor to the Battlemaster's weapon rack, then ring the bell.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "the-house-of-broken-chains",
+"why": "Saga. Menace level 22.",
+"entrance": "The quest is found in Eveningstar. The entrance is in Sschindylryn.",
+"giver_where": "",
+"tip": "Disguise yourself as a slave, climb into the cart, and start the revolt. Onslaught/Conquest require you to kill all the spiders.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "the-portal-opens",
+"why": "Saga. Menace level 22.",
+"entrance": "The quest is found in Eveningstar. The entrance is in Sschindylryn (the quest takes place in Sschindylryn Ziggurat).",
+"giver_where": "",
+"tip": "Prerequisite: the three House of ... quests. Enter the Temple of Lolth and defeat the high priestess.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "dont-drink-the-water",
+"why": "Saga. Menace level 22.",
+"entrance": "Talk to Unmar Halberg in Eveningstar. He lowers you into the well (Eveningstar Well).",
+"giver_where": "Stonemason in Eveningstar. He lowers you into the well.",
+"tip": "The chest behind the waterfall is locked. Healing the dryad trees without killing the dryads is optional.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "in-the-belly-of-the-beast",
+"why": "Saga. Menace level 22.",
+"entrance": "The quest is found in Eveningstar. The entrance is in The Underdark (the quest takes place in Secret Caverns).",
+"giver_where": "",
+"tip": "Optional objective: kill the purple worm in under a minute.",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "trial-by-fury",
+"why": "Saga. Very good XP per minute (Wipe).",
+"entrance": "Entrance in The Demonweb. The quest is found in Eveningstar.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "the-deal-and-the-demon",
+"why": "Saga. Menace level 23.",
+"entrance": "Entrance in The Demonweb. The quest is found in Eveningstar.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "reclaiming-the-rift",
+"why": "Saga. Closes out the 13 quests of the Menace saga.",
+"entrance": "Entrance in The Demonweb. The quest is found in Eveningstar.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "the-druids-curse",
+"why": "Cormyr and Huntsilver saga. 22,513 XP, very good XP per minute.",
+"entrance": "",
+"giver_where": "",
+"tip": "Prerequisites: Outbreak, Overgrowth, Thorn and Paw. There are 11 bear traps in front of the log tunnel.",
+"group": "The Druid's Deep",
+"diff": "Elite"
+},
+{
+"id": "outbreak",
+"why": "Cormyr and Huntsilver saga. The Druid's Deep pack.",
+"entrance": "In Eveningstar, in the Eveningstar War Hospital. No coordinates given.",
+"giver_where": "",
+"tip": "Optional: heal 5 patients. Disarming 2 traps gives a +20% bonus.",
+"group": "The Druid's Deep",
+"diff": "Elite"
+},
+{
+"id": "thorn-and-paw",
+"why": "Cormyr and Huntsilver saga. The Druid's Deep pack.",
+"entrance": "Entrance in Eveningstar. It takes place at Thorn Hollow.",
+"giver_where": "",
+"tip": "",
+"group": "The Druid's Deep",
+"diff": "Elite"
+},
+{
+"id": "overgrowth",
+"why": "Cormyr and Huntsilver saga. The Druid's Deep pack.",
+"entrance": "Entrance in Eveningstar. It takes place at Uthe Lodge.",
+"giver_where": "",
+"tip": "",
+"group": "The Druid's Deep",
+"diff": "Elite"
+},
+{
+"id": "caught-in-the-web",
+"why": "Last Menace quest (24). By calculation, it's not part of the Menace saga.",
+"entrance": "Eveningstar Cavern (Heroic version) or The Demonweb (Epic version). The quest is found in Eveningstar.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "Menace of the Underdark",
+"diff": "Elite"
+},
+{
+"id": "lost-in-the-swamp",
+"why": "Cormyr and Huntsilver saga. 16,444 XP, Medium.",
+"entrance": "Entrance in The High Road. The quest takes place in Lost Souls' Swamp.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "The High Road of Shadows",
+"diff": "Elite"
+},
+{
+"id": "the-end-of-the-road",
+"why": "Cormyr and Huntsilver saga. High Road pack.",
+"entrance": "Entrance in The High Road. The quest takes place in The Blooded Wood.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "The High Road of Shadows",
+"diff": "Elite"
+},
+{
+"id": "a-stay-at-the-inn",
+"why": "Cormyr and Huntsilver saga. High Road pack.",
+"entrance": "Entrance in The High Road. The quest takes place in The Old Man's Face Inn.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "The High Road of Shadows",
+"diff": "Elite"
+},
+{
+"id": "detour",
+"why": "Cormyr and Huntsilver saga. High Road pack.",
+"entrance": "Entrance in The High Road. The quest takes place on Greenweald Lane.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "The High Road of Shadows",
+"diff": "Elite"
+},
+{
+"id": "rest-stop",
+"why": "Cormyr and Huntsilver saga. High Road pack.",
+"entrance": "Entrance in The High Road. The quest takes place in Beckside Castle Ruins.",
+"giver_where": "Eveningstar",
+"tip": "",
+"group": "The High Road of Shadows",
+"diff": "Elite"
+},
+{
+"id": "return-to-cabal-for-one",
+"why": "Gianthold Return to quest (24).",
+"entrance": "Entrance through Ruins of Gianthold (Epic). The quest is found in Gianthold.",
+"giver_where": "Gianthold",
+"tip": "",
+"group": "Ruins of Gianthold",
+"diff": "Elite"
+},
+{
+"id": "return-to-gianthold-tor",
+"why": "Return to quest. Tor: good XP per minute (Wipe).",
+"entrance": "Entrance in Gianthold.",
+"giver_where": "Gianthold",
+"tip": "",
+"group": "Ruins of Gianthold",
+"diff": "Elite"
+},
+{
+"id": "return-to-madstone-crater",
+"why": "Gianthold Return to quest (24).",
+"entrance": "Entrance through Ruins of Gianthold (Epic). The quest is found in Gianthold.",
+"giver_where": "Gianthold",
+"tip": "",
+"group": "Ruins of Gianthold",
+"diff": "Elite"
+},
+{
+"id": "return-to-prison-of-the-planes",
+"why": "Return to Gianthold quest (24)",
+"entrance": "Enter via Ruins of Gianthold (Epic). You find the quest in Gianthold.",
+"giver_where": "Gianthold",
+"tip": "",
+"group": "Ruins of Gianthold",
+"diff": "Elite"
+},
+{
+"id": "the-fall-of-truth",
+"why": "Last Gianthold quest, level 25",
+"entrance": "Gianthold (Stormreaver's Chambers). Prerequisite: Return to Gianthold Tor.",
+"giver_where": "In the Tor's inner sanctum, in Gianthold",
+"tip": "This is a raid.",
+"group": "Ruins of Gianthold",
+"diff": "Elite"
+},
+{
+"id": "prove-your-worth-epic",
+"why": "Epic 25. Three-Barrel Cove pack.",
+"entrance": "Three-Barrel Cove (Epic), reached from Barrel's Bottom, near the wreck of the Lady Luck",
+"giver_where": "At Barrel's Bottom",
+"tip": "Final boss: answer the insults with Bluff, Diplomacy or Intimidation, or you get stunned.",
+"group": "Three-Barrel Cove",
+"diff": "Elite"
+},
+{
+"id": "a-legend-revisited",
+"why": "26,550 XP on Elite, 140 RXP per skull",
+"entrance": "Three-Barrel Cove (Epic). The quest takes place in the Wheeping Cove.",
+"giver_where": "At Barrel's Bottom",
+"tip": "Pressure plate near the 1st vampire, cave-in at the 2nd valve, fire jets to the southeast (shut off by a valve).",
+"group": "Three-Barrel Cove",
+"diff": "Elite"
+},
+{
+"id": "old-tomb-new-tenants",
+"why": "Epic 25. Three-Barrel Cove pack.",
+"entrance": "Three-Barrel Cove (Epic), at Garl's Tomb (Ahraatz-ri's treasure)",
+"giver_where": "At Barrel's Bottom",
+"tip": "Pressure plates at the top and bottom of the stairs after the bridge. Locked door to the first shrine.",
+"group": "Three-Barrel Cove",
+"diff": "Elite"
+},
+{
+"id": "ghost-of-a-chance-epic",
+"why": "Very good XP per minute (Wipe)",
+"entrance": "Three-Barrel Cove (Epic). The quest takes place in Goldhorn's Repository.",
+"giver_where": "Ghost at Barrel's Bottom",
+"tip": "Free Farrier Worley and keep him alive. Blade trap on the floor in the east hallway.",
+"group": "Three-Barrel Cove",
+"diff": "Elite"
+},
+{
+"id": "precious-cargo",
+"why": "No Reaper (wiki): play on Elite",
+"entrance": "Three-Barrel Cove (Epic), reached from Barrel's Bottom",
+"giver_where": "At Barrel's Bottom",
+"tip": "Requires Prove Your Worth, Ghost of a Chance, A Legend Revisited and Old Tomb, New Tenants.",
+"group": "Three-Barrel Cove",
+"diff": "Elite"
+},
+{
+"id": "orchard-of-the-macabre-epic",
+"why": "Slayer from the 2017 guide and from Zhildye, up to level 28. No Reaper XP.",
+"entrance": "From Upper Necropolis",
+"giver_where": "",
+"tip": "",
+"group": "Slayers wilderness",
+"diff": "7,500 kills"
+},
+{
+"id": "army-of-shadow",
+"why": "Cormyr saga. Check in game that it is level 26.",
+"entrance": "At Wheloon Prison (Wheloon). The quest takes place in the Netherese Recruiting Center.",
+"giver_where": "",
+"tip": "There are Spell Wards (Telekinetic, Evil) before the stairs to the second level.",
+"group": "Shadow Over Wheloon",
+"diff": "Elite"
+},
+{
+"id": "the-thrill-of-the-hunt",
+"why": "Cormyr saga. Check in game that it is level 26.",
+"entrance": "At Wheloon Prison (Wheloon). The quest takes place in the Merchant's Townhouse, a Shadar-kai outpost.",
+"giver_where": "",
+"tip": "You need two keys: one for the upper door, one for the lower door.",
+"group": "Shadow Over Wheloon",
+"diff": "Elite"
+},
+{
+"id": "a-lesson-in-deception",
+"why": "Cormyr saga. Check in game that it is level 26.",
+"entrance": "At Wheloon Prison (Wheloon). The quest takes place in the Warehouse District.",
+"giver_where": "",
+"tip": "Dart traps between the two sewer grates. Disarming one gives the Tamper bonus.",
+"group": "Shadow Over Wheloon",
+"diff": "Elite"
+},
+{
+"id": "friends-in-low-places",
+"why": "Cormyr saga. Check in game that it is level 26.",
+"entrance": "At Wheloon Prison (Wheloon). The quest takes place in the Drainage Culverts.",
+"giver_where": "",
+"tip": "For the Ransack bonus, smash the objects in all three camps and the ones at the end.",
+"group": "Shadow Over Wheloon",
+"diff": "Elite"
+},
+{
+"id": "through-a-mirror-darkly",
+"why": "Cormyr saga. Very good XP per minute (Wipe).",
+"entrance": "At Wheloon Prison (Wheloon). The quest takes place in Oldstone Hall.",
+"giver_where": "",
+"tip": "Locked door in the southwest corner of the lower floor.",
+"group": "Shadow Over Wheloon",
+"diff": "Elite"
+},
+{
+"id": "brothers-of-the-forge",
+"why": "Mixed level 28 category. Check in game whether it is Epic.",
+"entrance": "Cannith Training Facility No. 14, in the Mournland (Talbron's home forge)",
+"giver_where": "",
+"tip": "The Mournland is dangerous solo, so bring companions. Magefire cannons in the first training rooms.",
+"group": "Level 28 Quests",
+"diff": "Elite"
+},
+{
+"id": "the-haunted-halls-of-eveningstar",
+"why": "Mixed level 28 category. Check in game whether it is Epic.",
+"entrance": "Eveningstar",
+"giver_where": "",
+"tip": "",
+"group": "Level 28 Quests",
+"diff": "Elite"
+},
+{
+"id": "time-flies",
+"why": "Mixed level 28 category. Check in game whether it is Epic.",
+"entrance": "You find the quest in The Anniversary Celebration.",
+"giver_where": "",
+"tip": "Five versions depending on level. Pick the one that matches your character's level.",
+"group": "Level 28 Quests",
+"diff": "Elite"
+},
+{
+"id": "toil-and-trouble",
+"why": "Mixed level 28 category. Check in game whether it is Epic.",
+"entrance": "Eveningstar. Takes place in Mielikki's Grove.",
+"giver_where": "",
+"tip": "",
+"group": "Level 28 Quests",
+"diff": "Elite"
+},
+{
+"id": "barovia",
+"why": "Slayer from the 2017 guide and from Zhildye, up to level 30. No Reaper XP.",
+"entrance": "",
+"giver_where": "",
+"tip": "Barovia is an area (The Land of Barovia, Mists of Ravenloft), not a quest. Specify which quest you want.",
+"group": "Slayers wilderness",
+"diff": "7,500 kills"
+},
+{
+"id": "the-mask-of-deception",
+"why": "Epic 30, free, 19,479 XP on Elite. Reaper to be tested.",
+"entrance": "Eveningstar: the cult's hideout is north of town (toward the Stonelands).",
+"giver_where": "",
+"tip": "Three optional objectives: neutralize the cultists in the bar, disrupt the supplies, poison the feast.",
+"group": "End of Epic",
+"diff": "Elite"
+},
+{
+"id": "temple-of-elemental-evil-part-one-historic",
+"why": "Legendary 30, free: Legendary XP from the cap. Check availability.",
+"entrance": "Walkup access. Takes place in Temple Grounds.",
+"giver_where": "",
+"tip": "Historic version: removed from the game in U56 and split into several quests.",
+"group": "End of Epic",
+"diff": "Elite"
+},
+{
+"id": "temple-of-elemental-evil-part-one",
+"why": "Only base Legendary 30 quest, free (check availability)",
+"entrance": "",
+"giver_where": "Temple Grounds",
+"tip": "The page groups two quests: ToEE: First Level and Earth Temple and ToEE: Lower Temple Complex.",
+"group": "Legendary 30",
+"diff": "Reaper, Long (316 RXP/skull)"
+},
+{
+"id": "the-mines-of-tethyamar-pack",
+"why": "Paid pack, 725 DDO Points, level 31, quests not detailed",
+"entrance": "Tethyamar Mining Outpost, reached through Arman Argentine in Eveningstar",
+"giver_where": "In Eveningstar. He teleports you to the mines.",
+"tip": "5-quest pack: Records of the Past, Third Time's a Charm, Graveyard Shift, Strike Back, Desire in the Dark.",
+"group": "Mines of Tethyamar (Level 31)",
+"diff": "Reaper (quests not detailed)"
+},
+{
+"id": "an-invitation-to-dinner",
+"why": "Legendary level 31 or 32, unconfirmed",
+"entrance": "The Land of Barovia. The quest takes place at Castle Ravenloft.",
+"giver_where": "House Jorasco",
+"tip": "",
+"group": "Mists of Ravenloft",
+"diff": "Reaper"
+},
+{
+"id": "the-curse-of-strahd",
+"why": "Best RXP/skull at level 32",
+"entrance": "Blood on the Vine Tavern (raid).",
+"giver_where": "",
+"tip": "Known traps on the stairs: spikes, spell wards and a gust of wind.",
+"group": "Mists of Ravenloft",
+"diff": "Reaper, Very Long (368.8 RXP/skull)"
+},
+{
+"id": "into-the-mists",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "House Jorasco (walkup).",
+"giver_where": "",
+"tip": "Optional objectives: Wisps, wolf packs, Scarecrows. XP bonus at 15, 30 and 45 monsters killed.",
+"group": "Mists of Ravenloft",
+"diff": "Reaper"
+},
+{
+"id": "death-house",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "The Land of Barovia (In the Shadow of the Castle arc). Requires Into the Mists.",
+"giver_where": "House Jorasco",
+"tip": "A blade trap guards the locked chest in the basement, and another one is in front of the door to the underground passage.",
+"group": "Mists of Ravenloft",
+"diff": "Reaper"
+},
+{
+"id": "fresh-baked-dreams",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "The Land of Barovia. The quest takes place at Old Bonegrinder. Requires Into the Mists.",
+"giver_where": "House Jorasco",
+"tip": "You only get the named item chest if you kill Old Morgantha last.",
+"group": "Mists of Ravenloft",
+"diff": "Reaper"
+},
+{
+"id": "the-final-vintage",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "The Land of Barovia (The Light of the Land arc). Requires Into the Mists.",
+"giver_where": "",
+"tip": "Optional objectives: read all the notes and defeat the Shambling Mound.",
+"group": "Mists of Ravenloft",
+"diff": "Reaper"
+},
+{
+"id": "wrath-of-the-earth",
+"why": "Level 31 or 32 unconfirmed, short quest",
+"entrance": "The Land of Barovia. The quest takes place at Yester Hill (The Light of the Land arc). Requires Into the Mists.",
+"giver_where": "",
+"tip": "XP bonus based on kills: +7% at 19 kills or fewer, up to +25% at 100 kills or more.",
+"group": "Mists of Ravenloft",
+"diff": "Reaper"
+},
+{
+"id": "ravens-bane",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "The Land of Barovia. The quest takes place at the Ruins of Berez (The Light of the Land arc). Requires Into the Mists.",
+"giver_where": "",
+"tip": "XP bonus based on kills: Discreet at 57 kills or fewer, up to Conquest at 100 or more.",
+"group": "Mists of Ravenloft",
+"diff": "Reaper"
+},
+{
+"id": "the-dryad-and-the-demigod",
+"why": "Legendary Feywild 32, good RXP",
+"entrance": "Wynwood Hall. The quest (raid) takes place in the Valley of the Door.",
+"giver_where": "",
+"tip": "Objectives: break Hyrsam's control over the door, protect Hawthorn from the Corruption, balance the South East Door Stones.",
+"group": "Fables of the Feywild",
+"diff": "Reaper, Long (330.4 RXP/skull)"
+},
+{
+"id": "project-nemesis",
+"why": "Best Legendary Sharn quest",
+"entrance": "Alcorin's Forge - Staging Area, in Sharn - Clifftop Tower District.",
+"giver_where": "Near the Vault (based on the quest objectives)",
+"tip": "The quest locks after you talk to the talking mouth.",
+"group": "Masterminds of Sharn",
+"diff": "Reaper, Long (330.4 RXP/skull)"
+},
+{
+"id": "back-to-basics",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "In Saltmarsh.",
+"giver_where": "",
+"tip": "Two Horizontal Blade Traps in the north-south passage on the west side near the entrance.",
+"group": "Saltmarsh",
+"diff": "Reaper"
+},
+{
+"id": "down-you-go",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "In Saltmarsh. Walkup quest, in the Hole in the Ground, with no NPC giver.",
+"giver_where": "",
+"tip": "Fire traps on the pillars of the Forest of Columns. The rune wheels disable them.",
+"group": "Saltmarsh",
+"diff": "Reaper"
+},
+{
+"id": "swim-at-your-own-risk",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "In Saltmarsh.",
+"giver_where": "",
+"tip": "",
+"group": "Saltmarsh",
+"diff": "Reaper"
+},
+{
+"id": "the-final-enemy",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "In Saltmarsh.",
+"giver_where": "",
+"tip": "Sonic trap at the first door after Ihrtos. Electric trap at the entrance of the treasure room.",
+"group": "Saltmarsh",
+"diff": "Reaper"
+},
+{
+"id": "trials-of-the-triceratops",
+"why": "Legendary Isle of Dread 33",
+"entrance": "On The Isle of Dread. The quest takes place in Maurauder Cavern.",
+"giver_where": "Village of Tanaroa",
+"tip": "",
+"group": "Isle of Dread",
+"diff": "Reaper, Medium (298 RXP/skull)"
+},
+{
+"id": "wild-thing",
+"why": "Legendary Isle of Dread 33",
+"entrance": "On The Isle of Dread.",
+"giver_where": "Village of Tanaroa",
+"tip": "The Ankylosaurus is dangerous.",
+"group": "Isle of Dread",
+"diff": "Reaper, Medium (298 RXP/skull)"
+},
+{
+"id": "isle-of-dread-2",
+"why": "11 quests in total, 9 unnamed",
+"entrance": "",
+"giver_where": "",
+"tip": "Other quests in the pack (Heroic 7 / Legendary 33): The Curse and the Captive Crustacean, Bullywugs and Booby Traps, Plundering Pirates' Point, The Stone Crypt Chronicle, Captive of the Hidden God, The Trouble with Tar Pits, Whispers of Return, All Hail the King, Spiders and Flies. Fall of the Forbidden Temple is Heroic 8 / Legendary 34.",
+"group": "Isle of Dread",
+"diff": "Reaper"
+},
+{
+"id": "fall-of-the-forbidden-temple",
+"why": "Isle of Dread level 34, good RXP",
+"entrance": "Isle of Dread.",
+"giver_where": "Village of Tanaroa, on the Isle of Dread",
+"tip": "Disarm the traps and aim for the lever in the northwest corner after the water room to stop the flame jets.",
+"group": "Isle of Dread",
+"diff": "Reaper, Long (344.8 RXP/skull)"
+},
+{
+"id": "skeletons-in-the-closet",
+"why": "Isle of Dread level 34, good RXP",
+"entrance": "Village of Tanaroa. The quest (a raid) takes place in the Firemouth.",
+"giver_where": "Village of Tanaroa, on the Isle of Dread",
+"tip": "",
+"group": "Isle of Dread",
+"diff": "Reaper, Long (344.8 RXP/skull)"
+},
+{
+"id": "vecna-unleashed-quest",
+"why": "Legendary 34, Morgrave University patron",
+"entrance": "Morgrave University - Upper Commons.",
+"giver_where": "",
+"tip": "",
+"group": "Vecna Unleashed",
+"diff": "Reaper, Medium (304 RXP/skull)"
+},
+{
+"id": "cold-snap",
+"why": "Start of Chill, level 34, not 36",
+"entrance": "Land of Lamordia.",
+"giver_where": "Ludendorf City Hall, Land of Lamordia",
+"tip": "",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (304 RXP/skull)"
+},
+{
+"id": "locked-away-part-one",
+"why": "Level 34, not 36",
+"entrance": "Land of Lamordia. The quest takes place in the Ludendorf Asylum, Main Building.",
+"giver_where": "Ludendorf City Hall, Land of Lamordia",
+"tip": "Find the Silver Key to open the Patients' Wing. Drain the sink before you use the fishing rod in the Kitchen Drain.",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (304 RXP/skull)"
+},
+{
+"id": "what-dreams-may-come",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "Morgrave University - Nymph's Court.",
+"giver_where": "",
+"tip": "",
+"group": "Vecna Unleashed",
+"diff": "Reaper"
+},
+{
+"id": "party-101",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "Morgrave University - Nymph's Court.",
+"giver_where": "",
+"tip": "Force pressure plate traps surround the locked chest in the secret room.",
+"group": "Vecna Unleashed",
+"diff": "Reaper"
+},
+{
+"id": "paper-trail",
+"why": "Short quest to farm (Vooduspyce), level not read",
+"entrance": "Morgrave University - Nymph's Court.",
+"giver_where": "",
+"tip": "Cold pressure plate traps surround the locked chest, which you reach after a swim.",
+"group": "Vecna Unleashed",
+"diff": "Reaper"
+},
+{
+"id": "oghmas-song",
+"why": "Legendary 35, no heroic level",
+"entrance": "In The Ruins of Myth Drannor.",
+"giver_where": "Outskirts of Myth Drannor",
+"tip": "",
+"group": "Magic of Myth Drannor",
+"diff": "Reaper (profile not read)"
+},
+{
+"id": "threats-old-and-new",
+"why": "Myth Drannor raid quest",
+"entrance": "In the Outskirts of Myth Drannor.",
+"giver_where": "",
+"tip": "",
+"group": "Magic of Myth Drannor",
+"diff": "Reaper, Medium (310 RXP/skull)"
+},
+{
+"id": "the-body-snatchers",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "In House Jorasco (walk-up)",
+"giver_where": "",
+"tip": "",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (316 RXP/skull)"
+},
+{
+"id": "special-delivery",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "In Land of Lamordia.",
+"giver_where": "Ludendorf City Hall",
+"tip": "",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (316 RXP/skull)"
+},
+{
+"id": "a-miner-sacrifice",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "In Land of Lamordia.",
+"giver_where": "Ludendorf City Hall",
+"tip": "",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (316 RXP/skull)"
+},
+{
+"id": "beneath-the-city-streets",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "In Land of Lamordia. The entrance is in the Dead Man's Crossing graveyard.",
+"giver_where": "Ludendorf City Hall",
+"tip": "",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Long (359.2 RXP/skull)"
+},
+{
+"id": "the-proper-authorities",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "In Land of Lamordia.",
+"giver_where": "Ludendorf City Hall",
+"tip": "",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (316 RXP/skull)"
+},
+{
+"id": "the-wish",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "In Land of Lamordia.",
+"giver_where": "Ludendorf City Hall",
+"tip": "",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Long (359.2 RXP/skull)"
+},
+{
+"id": "ends-and-means",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "Ludendorf City Hall, in the Land of Lamordia.",
+"giver_where": "",
+"tip": "Part of the Chill of Ravenloft Part Two arc.",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (316 RXP/skull)"
+},
+{
+"id": "locked-away-part-two",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "Ludendorf City Hall, in the Land of Lamordia. You can also chain it from the end of Part One.",
+"giver_where": "",
+"tip": "Part of the Chill of Ravenloft Part Two arc. Also available at the end of Part One.",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (316 RXP/skull)"
+},
+{
+"id": "zoo-creeper",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "Ludendorf City Hall, in the Land of Lamordia.",
+"giver_where": "",
+"tip": "",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (316 RXP/skull)"
+},
+{
+"id": "snowfall-and-sunlight",
+"why": "Best RXP at level 36",
+"entrance": "Ludendorf City Hall, in the Land of Lamordia.",
+"giver_where": "",
+"tip": "Very Long quest in the Chill of Ravenloft Part Two arc.",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Very Long (402.4 RXP/skull)"
+},
+{
+"id": "a-light-in-the-attic",
+"why": "Chill of Ravenloft Legendary 36",
+"entrance": "Ludendorf City Hall, in the Land of Lamordia.",
+"giver_where": "",
+"tip": "",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Medium (316 RXP/skull)"
+},
+{
+"id": "relentless",
+"why": "Finale of Chill, best RXP at level 36",
+"entrance": "Ludendorf City Hall (Land of Lamordia)",
+"giver_where": "",
+"tip": "Legendary raid only. The wiki page marks the map as incomplete.",
+"group": "Chill of Ravenloft",
+"diff": "Reaper, Very Long (402.4 RXP/skull)"
+},
+{
+"id": "demon-in-the-rough",
+"why": "Level cap reached, Legendary 37 content (U81 expansion)",
+"entrance": "The Darklake.",
+"giver_where": "",
+"tip": "",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper, Medium (322 RXP/skull)"
+},
+{
+"id": "tower-of-vengeance",
+"why": "Level cap reached, Legendary 37 content",
+"entrance": "In The Darklake (quest found in Gravenhollow). It takes place on The Road to Vizeran's Tower.",
+"giver_where": "",
+"tip": "",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper, Medium (322 RXP/skull)"
+},
+{
+"id": "back-to-the-abyss",
+"why": "Level cap reached, Legendary 37 content",
+"entrance": "In The Darklake (quest found in Gravenhollow). It takes place in Evacuated Duergar Forge. Kleve, Vizeran's servant, comes to pick you up and take you there.",
+"giver_where": "",
+"tip": "The wiki page has several puzzle images (Puzzle to Puzzle5) in addition to the map.",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper, Medium (322 RXP/skull)"
+},
+{
+"id": "a-long-way-to-mushrooms",
+"why": "Level cap reached, Legendary 37 content",
+"entrance": "In The Darklake (quest found in Gravenhollow). It takes place in a Myconid Cave.",
+"giver_where": "",
+"tip": "",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper, Medium (322 RXP/skull)"
+},
+{
+"id": "raiding-the-raiders",
+"why": "Level cap reached, Legendary 37 content",
+"entrance": "In The Darklake (quest found in Gravenhollow). It takes place in Drow Raider's Camp.",
+"giver_where": "",
+"tip": "",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper, Medium (322 RXP/skull)"
+},
+{
+"id": "hideous-to-behold",
+"why": "Level cap reached, good RXP",
+"entrance": "In The Darklake (quest found in Gravenhollow). It takes place in Karazikar's Maw.",
+"giver_where": "",
+"tip": "Falling off the bridge means instant death. The resurrection stone is in the room before the lower bridge.",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper, Long (366.4 RXP/skull)"
+},
+{
+"id": "a-blood-pact",
+"why": "Pack quest, profile not read",
+"entrance": "In The Darklake (quest found in Gravenhollow). You have to go to a camp near the Sanguine Labyrinth to talk to Graz'zt.",
+"giver_where": "In a makeshift \"residence\" in the Underdark, near a camp at the Sanguine Labyrinth.",
+"tip": "The wiki page has one puzzle image in addition to the map.",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper (profile not read)"
+},
+{
+"id": "the-price-of-an-egg",
+"why": "Pack quest, profile not read",
+"entrance": "In The Darklake (quest found in Gravenhollow). It takes place in The Wormwrithings.",
+"giver_where": "",
+"tip": "You have to find Bromnur, a missing Duergar supplier, during the quest. He is not the quest giver. Poison pools line the road to the egg.",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper (profile not read)"
+},
+{
+"id": "for-want-of-a-heart",
+"why": "Pack quest, profile not read",
+"entrance": "In The Darklake (quest found in Gravenhollow). The Goristro is in the Seething Ruins.",
+"giver_where": "",
+"tip": "Brumo gives you an enchanted bag because the heart spoils quickly. There are many Baphomet and Yeenoghu cultists in the ruins.",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper (profile not read)"
+},
+{
+"id": "flocked-together",
+"why": "Pack quest, profile not read",
+"entrance": "Entrance in The Darklake",
+"giver_where": "Gravenhollow",
+"tip": "",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper (profile not read)"
+},
+{
+"id": "the-fetid-wedding",
+"why": "Pack quest, profile not read",
+"entrance": "",
+"giver_where": "Gravenhollow",
+"tip": "",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper (profile not read)"
+},
+{
+"id": "stealing-from-sorcere",
+"why": "Pack quest, profile not read",
+"entrance": "",
+"giver_where": "",
+"tip": "",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper (profile not read)"
+},
+{
+"id": "if-it-wasnt-for-bad-luck",
+"why": "Pack quest, profile not read",
+"entrance": "Entrance in The Darklake",
+"giver_where": "Gravenhollow",
+"tip": "",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper (profile not read)"
+},
+{
+"id": "terror-of-the-demon-lords",
+"why": "Pack raid, highest RXP found",
+"entrance": "Gravenhollow.",
+"giver_where": "",
+"tip": "Legendary-only quest, level 37 (above the level 36 cap).",
+"group": "Terror of Demogorgon (Level 37)",
+"diff": "Reaper, Very Long (410.8 RXP/skull)"
+}
+]
